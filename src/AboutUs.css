@@ -31,3 +31,10 @@
   .plant_logo_left{
     text-align: left;
   }
+
+.signature {
+    text-align: right;        /* aligns text to the right */
+    font-size: 18px;
+    color: #b9e619;
+    margin-bottom: 20px;      /* spacing below signature */
+}

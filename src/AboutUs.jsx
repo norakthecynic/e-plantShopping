@@ -25,6 +25,7 @@ function AboutUs() {
         Join us in our mission to create a greener, healthier world. Visit Paradise Nursery today and experience the 
         beauty of nature right at your doorstep.
       </p>
+      
     </div>
   );
 }
